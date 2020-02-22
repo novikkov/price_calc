@@ -74,7 +74,7 @@ function dopOptionString(){
         }
 
         if(analyticsGoogle.checked){
-            str += 'Гугл Аналитику';
+            str += ' Гугл Аналитику';
             if(sendOrder.checked){
                 str += ' и';
             }
